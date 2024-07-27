@@ -1,0 +1,223 @@
+
+.titleDiv{
+    background-image: url("./images/flag\ bg.jpg"),url("./images/logo.png"),url("./images/logo1.webp");
+    background-position: 0px -450px,left top,right top;
+    background-repeat: no-repeat,no-repeat,no-repeat;
+    background-blend-mode:difference;
+    background-size: cover,contain,contain;
+    text-align: center;
+    padding: 30px;  
+    color: rgb(251, 245, 245);   
+
+}
+.partiesBg{
+    background-image: url("./images/Election\ logo1.png") ;
+    background-position: 0px -40px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+#paddingBox{
+    background-origin: padding-box;
+}
+
+#tdpPic,#ycpPic{
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 100px;
+    border: 10px solid black;
+    box-shadow: 8px 8px 6px black;
+    border-radius: 200px;
+}
+
+#tdpPic:hover{
+    background-color: rgb(243, 235, 13);
+    
+}
+#ycpPic:hover{
+    background-color: rgb(83, 241, 10);
+    
+}
+
+.tdpBg{
+    width: 1600px;
+    height: 400px;
+    background-image: url("./images/Telugu_Desam_Party_Flag.png") ;
+    background-position: 0px -20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    margin-bottom: 10px;
+    display:inline-block;
+    border: 10px solid black;
+    
+    
+}
+
+#TDP{
+    font-size: 6rem;
+    color: rgb(244, 6, 6);
+    margin-left: 150px;
+    
+}
+
+.cbnPic{
+    width: 300px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    border-radius: 40px;
+    border: 10px solid rgb(10, 9, 9);
+    padding: 10px;
+    
+}
+.cbnPic:hover{
+    border-radius: 400px;
+    box-shadow: 15px 15px 10px black;
+}
+
+.tdpBg:hover{
+    border-radius: 100px;
+    box-shadow: 15px 15px 10px black;
+}
+
+.tdpDesc{
+    width: 400px;
+    height: 600px;
+    display: inline-block;
+    text-align: center;  
+    border: 10px solid black;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    padding: 20px;
+    background-color: aliceblue;
+    background-image: url("./images/cycle.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0px 250px;
+    background-blend-mode:color-burn;
+   
+   
+}
+.tdpDesc p{
+    text-align: justify;
+}
+
+#cbnDesc{
+    width: 400px;
+}
+
+iframe{
+    width: 800px;
+    height: 600px;
+    margin-top: 10px;
+    margin-left: 20PX;
+    
+}
+.BG{
+    font-size: 2rem;
+    margin-left: 40px;
+}
+.BG:hover{
+    background-color: gold;
+    width: 80px;
+}
+.TDPB{
+    background-image: url(./images/xs-olequeole-off.png);
+    background-size: cover;
+   
+}
+
+
+.ycpBg{
+    width: 1600px;
+    height: 400px;
+    background-image: url("./images/flag.avif") ;
+    background-position: 0px -220px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    margin-bottom: 10px;
+    display:inline-block;
+    border: 10px solid black;
+    
+    
+}
+
+#ycp{
+    font-size: 6rem;
+    color: rgb(245, 241, 241);
+    margin-left: 150px;
+    
+}
+
+.jaganPic{
+    width: 300px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    border-radius: 40px;
+    border: 10px solid rgb(10, 9, 9);
+    padding: 10px;
+    background-origin: border-box;
+    
+}
+.jaganPic:hover{
+    border-radius: 400px;
+    box-shadow: 15px 15px 10px black;
+}
+
+.ycpBg:hover{
+    border-radius: 100px;
+    box-shadow: 15px 15px 10px black;
+}
+
+.ycpDesc{
+    width: 400px;
+    height: 600px;
+    display: inline-block;
+    text-align: center;  
+    border: 10px solid black;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    padding: 20px;
+    background-color: rgb(128, 182, 201);
+    background-image: url("./images/a0a0da_e1ba653e87ce4d6ea29d27c9c2320520~mv2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0px 250px;
+    background-blend-mode: multiply;
+   
+   
+}
+.ycpDesc p{
+    text-align: justify;
+}
+
+#ycpDesc{
+    width: 400px;
+}
+
+iframe{
+    width: 800px;
+    height: 600px;
+    margin-top: 10px;
+    margin-left: 20PX;
+    
+}
+.BGj{
+    font-size: 2rem;
+    margin-left: 40px;
+}
+.BGj:hover{
+    background-color: gold;
+    width: 80px;
+}
+.YCPB{
+    background-image: url(./images/ycp\ bg\ 2.jpg);
+    background-size: cover;
+    background-position: 0px 250px;
+     
+}
+
+    
+
